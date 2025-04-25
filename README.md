@@ -14,9 +14,9 @@ This repo contains the benchmark dataset and key codes of the paper "GTPLM-GO: E
 - ./data/ppi_blastdb: the blastdb of ppi.fasta
 - ./data/network_seq.npy: embeddings of protein sequences in the PPI Network based on SeqVec (sum -> 1024 dim)
 
-For more details, please refer to [DeepGraphGO](https://github.com/yourh/DeepGraphGO) and Section 2.1 “Datasets” of the GTPLM-GO paper.
+For more details, please refer to [DeepGraphGO](https://github.com/yourh/DeepGraphGO) and Section 3.1 “Datasets” of the GTPLM-GO paper.
 
-The code was developed and tested using the same environment with DeepGraphGO.
+The environment of the code is same with DeepGraphGO.
 
 Benchmark dataset can be downloaded from [here](https://pan.baidu.com/s/1BynGQCdBgu6eo8dU58sdlg?pwd=nntx).
 
@@ -32,7 +32,7 @@ The hyperparameter search of GTPLM-GO is based on Wandb, for more information on
 
 ## Acknowledge
 
-Most of the codes in this study are obtained from [DeepGraphGO](https://github.com/yourh/DeepGraphGO), [SGFormer](https://github.com/qitianwu/SGFormer) and [NAGphormer](https://github.com/JHL-HUST/NAGphormer), we thank the authors for their open-sourced code.
+Our code is built upon [DeepGraphGO](https://github.com/yourh/DeepGraphGO), [SGFormer](https://github.com/qitianwu/SGFormer) and [NAGphormer](https://github.com/JHL-HUST/NAGphormer), we thank the authors for their open-sourced code.
 
 For more details one can check the original papers at:
 
