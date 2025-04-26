@@ -22,7 +22,7 @@ Benchmark dataset can be downloaded from [here](https://pan.baidu.com/s/1BynGQCd
 
 ### blast_results
 
-./blast_results is the BlastOutput results.
+./blast_results is the BlastOutput results for benchmark dataset.
 
 blast_results can be downloaded from [here](https://pan.baidu.com/s/1JglJVJ2HwrrjD1flouAPpQ?pwd=qyh7).
 
